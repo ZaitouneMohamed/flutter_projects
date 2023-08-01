@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
             'ifiag',
           ),
           centerTitle: true,
-          backgroundColor: Colors.redAccent,
+          backgroundColor: Colors.orange,
           leading: IconButton(
             icon: const Icon(Icons.menu),
             tooltip: 'Menu Icon',
